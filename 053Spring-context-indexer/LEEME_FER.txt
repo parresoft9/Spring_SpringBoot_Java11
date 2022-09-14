@@ -1,0 +1,2 @@
+Una vez arrancado buscar en el target generado spring.components que es donde se van a guardar 
+la referencia de los beans arrancados.
