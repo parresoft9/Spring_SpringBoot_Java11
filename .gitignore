@@ -5,4 +5,8 @@
 */target/
 *.iml
 */.factorypath
+*/.mvn/
+*/.gitignore
 
+*/.mvn/
+*/mvnw*
